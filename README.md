@@ -38,7 +38,7 @@ This repo is a work in progress and grows with every new project. Each project i
 
 ## Disclaimer
 
-The Netflix landing page is a learning exercise only. It is not affiliated with or endorsed by Netflix.
+These all learning projects are  learning exercises only. It is not affiliated with or endorsed by any organization or company.
 
 ## Author
 

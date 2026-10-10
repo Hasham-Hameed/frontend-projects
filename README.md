@@ -43,3 +43,7 @@ These all learning projects are  learning exercises only. It is not affiliated w
 ## Author
 
 Built while learning front-end fundamentals: HTML structure, CSS styling, and JavaScript.
+
+## Regards
+
+Hasham-Hameed

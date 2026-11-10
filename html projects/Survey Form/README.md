@@ -43,3 +43,5 @@ frontend-projects/
 │   └── ... (other projects)
 └── ...
 ```
+## Author 
+Hasham-Hameed
